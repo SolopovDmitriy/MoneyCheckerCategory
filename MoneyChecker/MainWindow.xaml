@@ -1,0 +1,111 @@
+﻿<Window x:Class="MoneyChecker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoneyChecker"
+        mc:Ignorable="d"
+        Title="Денюжко ЭкономистЪ и УчетчикЪ" Height="600" Width="800">
+    <Grid x:Name="MainWindowGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="25"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Menu Height="20" Grid.Row="0" Grid.Column="0" VerticalAlignment="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="Новая БД" Click="MenuItem_CreateDatabaseClick"  ></MenuItem>
+                <MenuItem Header="Открыть БД" Click="MenuItem_OpenDatabaseClick"></MenuItem>
+                <MenuItem Header="Сохранить" Click="MenuItem_SaveDatabaseClick"></MenuItem>
+                <MenuItem Header="Сохранить как" ></MenuItem>
+                <Separator />
+                <MenuItem Header="Безопасность" Click="MenuItem_SecurityClick" ></MenuItem>
+                <MenuItem Header="Exit" Click="MenuItem_CloseClick" ></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Правки" ></MenuItem>
+            <MenuItem Header="Вид" ></MenuItem>
+        </Menu>
+        
+        <!--<ToolBar Grid.Row="1" Grid.Column="0" Height="60" VerticalAlignment="Top">
+            <ToggleButton x:Name="ToggleBut_Search" FontFamily="Consolas" Click="ToggleBut_Search_Click">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/research.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Обзор</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <ToggleButton x:Name="ToggleBut_Transaction" FontFamily="Consolas" Click="ToggleBut_Transaction_Click">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/money-transfer.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Транзакции</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <ToggleButton FontFamily="Consolas">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/calendar.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Календарь</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <ToggleButton FontFamily="Consolas">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/schedule.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Планировщик</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <ToggleButton FontFamily="Consolas">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/calculator.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Бюджет</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <ToggleButton FontFamily="Consolas">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/debt.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Долги</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <ToggleButton FontFamily="Consolas">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/analysis.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Отчеты</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <Separator></Separator>
+            <ToggleButton FontFamily="Consolas">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/cash-flow.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Валюты</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <ToggleButton FontFamily="Consolas">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/bill.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Счета</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <ToggleButton FontFamily="Consolas">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/categories.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Категории</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <ToggleButton FontFamily="Consolas">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/group.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Пользователи</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+            <Separator></Separator>
+            <ToggleButton FontFamily="Consolas">
+                <WrapPanel Orientation="Vertical">
+                    <Image Source="images/settings.png" Height="25"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Настройки</TextBlock>
+                </WrapPanel>
+            </ToggleButton>
+        </ToolBar>-->
+
+        <StatusBar Grid.Row="2" Grid.Column="0" Background="#FFDC2424"></StatusBar>
+    </Grid>
+</Window>

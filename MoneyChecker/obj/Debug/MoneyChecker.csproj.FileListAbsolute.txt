@@ -1,0 +1,156 @@
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\bin\Debug\MoneyChecker.exe.config
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\bin\Debug\MoneyChecker.exe
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\bin\Debug\MoneyChecker.pdb
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csprojAssemblyReference.cache
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\App.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker_MarkupCompile.cache
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker_MarkupCompile.lref
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.g.resources
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.Properties.Resources.resources
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csproj.GenerateResource.cache
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.exe
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.pdb
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\BudgetPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\CalendarPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\CategoriesPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\CurrenciesPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\DebtsPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\OptionsPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\ReportsPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\SchedulerPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\SearchPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\TransactionPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\UsersPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\BudgetPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\CalendarPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\CategoriesPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\CurrenciesPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\DebtsPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\OptionsPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\ReportsPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\SchedulerPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\SearchPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\TransactionPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\UsersPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\InvoicesPage.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Pages\InvoicesPage.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.TabViewResource.resources
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxControl.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxControl.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxAppointmentControl.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Calendar\MonthView.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Calendar\WeekOfDaysControls.g.cs
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxAppointmentControl.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Calendar\MonthView.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\Calendar\WeekOfDaysControls.baml
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\bin\Debug\MySqlLib.dll
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csproj.CopyComplete
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\bin\Debug\System.Data.SQLite.dll
+C:\Users\student\source\repos\MoneyChecker\MoneyChecker\bin\Debug\System.Data.SQLite.xml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\bin\Debug\MoneyChecker.exe.config
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\bin\Debug\MoneyChecker.exe
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\bin\Debug\MoneyChecker.pdb
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\bin\Debug\System.Data.SQLite.dll
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\bin\Debug\System.Data.SQLite.xml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csprojAssemblyReference.cache
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxAppointmentControl.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxControl.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Calendar\MonthView.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Calendar\WeekOfDaysControls.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MainWindow.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\InvoicesPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\BudgetPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\CalendarPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\CategoriesPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\CurrenciesPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\DebtsPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\OptionsPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\ReportsPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\SchedulerPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\SearchPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\TransactionPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\UsersPage.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\App.g.cs
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker_MarkupCompile.cache
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker_MarkupCompile.lref
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxAppointmentControl.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxControl.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Calendar\MonthView.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Calendar\WeekOfDaysControls.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MainWindow.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\InvoicesPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\BudgetPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\CalendarPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\CategoriesPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\CurrenciesPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\DebtsPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\OptionsPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\ReportsPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\SchedulerPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\SearchPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\TransactionPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\Pages\UsersPage.baml
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.g.resources
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.Properties.Resources.resources
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.TabViewResource.resources
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csproj.GenerateResource.cache
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csproj.CopyComplete
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.exe
+C:\Users\de_Riter\Pictures\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.pdb
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csprojAssemblyReference.cache
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxAppointmentControl.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxControl.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Calendar\MonthView.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Calendar\WeekOfDaysControls.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MainWindow.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\InvoicesPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\BudgetPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\CalendarPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\CategoriesPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\CurrenciesPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\DebtsPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\OptionsPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\ReportsPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\SchedulerPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\SearchPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\TransactionPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\UsersPage.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\App.g.cs
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker_MarkupCompile.cache
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker_MarkupCompile.lref
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.exe
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.pdb
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\bin\Debug\MoneyChecker.exe.config
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\bin\Debug\MoneyChecker.exe
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\bin\Debug\MoneyChecker.pdb
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\bin\Debug\System.Data.SQLite.dll
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\bin\Debug\System.Data.SQLite.xml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxAppointmentControl.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Calendar\DayBoxControl.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Calendar\MonthView.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Calendar\WeekOfDaysControls.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MainWindow.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\InvoicesPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\BudgetPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\CalendarPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\CategoriesPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\CurrenciesPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\DebtsPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\OptionsPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\ReportsPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\SchedulerPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\SearchPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\TransactionPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\Pages\UsersPage.baml
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.g.resources
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.Properties.Resources.resources
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.TabViewResource.resources
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csproj.GenerateResource.cache
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csproj.CoreCompileInputs.cache
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\obj\Debug\MoneyChecker.csproj.CopyComplete
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\bin\Debug\SQLiteORM.dll
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\bin\Debug\SQLiteORM.pdb
+D:\c#\lesson49\MoneyChecker (1)\MoneyChecker\MoneyChecker\bin\Debug\SQLiteORM.dll.config
